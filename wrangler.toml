@@ -1,0 +1,5 @@
+﻿# push 03/10/2026 16:35:21
+name = 'automation'
+main = 'worker.js'
+compatibility_date = '2026-03-10'
+workers_dev = true
